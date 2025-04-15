@@ -1,11 +1,3 @@
-CS 280
-Spring 2024
-Programming Assignment 1
-Building a Lexical Analyzer for
-A Simple Fortran 95-Like Language
-February 19, 2024
-Due Date: Sunday, March 3rd, 2024, 23:59
-Total Points: 20
 In this programming assignment, you will be building a lexical analyzer for small programming
 language, called Simple Fortran95-Like (SFort95), and a program to test it. This assignment will
 be followed by two other assignments to build a parser and an interpreter to the language.
