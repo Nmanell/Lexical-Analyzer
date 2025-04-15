@@ -1,8 +1,3 @@
-
-DocViewer
-Page
-of 8
-Pages
 CS 280
 Spring 2024
 Programming Assignment 1
